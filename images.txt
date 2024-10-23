@@ -1,2 +1,3 @@
 xhofe/alist
 synctvorg/synctv
+lovechen/embyserver
