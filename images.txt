@@ -1,3 +1,4 @@
 xhofe/alist
 synctvorg/synctv
 lovechen/embyserver
+rustdesk/rustdesk-server
